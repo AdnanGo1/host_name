@@ -2,6 +2,7 @@
   "data": [
     {
         "animeday": "https://www.anime-day.com" ,
+        "page_cartoon": "https://www.anime-day.com/app/stardima.php?translate_type=dub&page=1" ,
         "blkom": "https://animeblkom.net" ,
         "animeiat": "https://api.animeiat.co",
         "xsanime": "https://x.xsanime.com",
