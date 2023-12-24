@@ -6,6 +6,7 @@
         "serverfo": "serverfo" ,
         "page_cartoon": "https://www.anime-day.com/app/stardima.php?translate_type=dub&page=2" ,
         "page_topcinema": "https://www.anime-day.com/app/topcinema.php?translate_type=sub&page=1" ,
+        "page_egydead": "https://www.anime-day.com/app/egydead.php?translate_type=dub&page=1" ,
         "blkom": "https://animeblkom.net" ,
         "arabanime": "https://www.arabanime.net" ,
         "animeiat": "https://api.animeiat.co",
